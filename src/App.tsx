@@ -1,7 +1,7 @@
 import React from 'react';
-
+import { Button } from './styles';
 function App() {
-  return null;
+  return <Button>Regular Button</Button>
 }
 
 export default App;
