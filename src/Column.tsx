@@ -1,5 +1,5 @@
 import { ColumnContainer, ColumnTitle } from "./styles";
-import {PropsWithChildren} from "react";
+import { PropsWithChildren } from "react";
 
 type ColumnProps = PropsWithChildren<{
   title: string
